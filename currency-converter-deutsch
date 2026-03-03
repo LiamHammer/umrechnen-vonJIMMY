@@ -11,7 +11,7 @@ class Currency:
         }
 
         self.root = root
-        self.root.title("Gib deinen Geld zu umwandeln")
+        self.root.title("WIEVIEL WILLST DU UMWANDELN???")
 
         self.label = tk.Label(root, text=":")
         self.label.pack(pady=10)
