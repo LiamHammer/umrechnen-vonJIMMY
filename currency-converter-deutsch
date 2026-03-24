@@ -1,5 +1,7 @@
 import tkinter as tk
 
+print("guten tag")
+
 class Currency:
     def __init__(self, root):
 
